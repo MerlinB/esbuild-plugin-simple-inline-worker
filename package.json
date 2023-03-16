@@ -1,16 +1,16 @@
 {
-  "name": "esbuild-plugin-inline-worker",
+  "name": "esbuild-plugin-string-worker",
   "description": "Esbuild loader for inline Web Workers",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mitschabaude/esbuild-plugin-inline-worker"
+    "url": "https://github.com/MerlinB/esbuild-plugin-string-worker"
   },
   "keywords": [
     "workers",
     "esbuild"
   ],
-  "author": "Gregor <gregor.mitscha-baude@gmx.at>",
+  "author": "Gregor <gregor.mitscha-baude@gmx.at>, Merlin Buczek",
   "license": "MIT",
   "type": "module",
   "main": "index.js",

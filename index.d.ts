@@ -1,6 +1,6 @@
-import {BuildOptions} from 'esbuild';
+import { BuildOptions } from "esbuild";
 
 export default function inlineWorkerPlugin(buildConfig?: BuildOptions): {
-  name: 'esbuild-plugin-inline-worker';
+  name: "esbuild-plugin-string-worker";
   setup: (build: unknown) => void;
 };
